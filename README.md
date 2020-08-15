@@ -4,7 +4,7 @@
     <img src="profile.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">FIFA 19 data exploration</h3>
+  <h3 align="center">Data analysis on Ipl dataset by kaggle</h3>
 
   <p align="center">
  In this i've done data analysis on ipl dataset..
