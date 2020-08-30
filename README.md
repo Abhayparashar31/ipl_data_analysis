@@ -24,4 +24,4 @@
 
 ## License
 
-Abhayparashar31/Covid19-worldometer-data is licensed under the GNU General Public License v3.0
+Abhayparashar31
